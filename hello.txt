@@ -3,5 +3,6 @@ a new line
 another new line
 this change was from the master branch
 more new lines
-123
+123 
+Hello form Harvir's fork!
 Hello from Lawton's fork!
